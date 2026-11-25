@@ -1,0 +1,6 @@
+{
+  "name": "Coelho Motors",
+  "description": "Venda, troca e financiamento de veículos seminovos em Marília/SP. Entrada em até 18x no cartão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
